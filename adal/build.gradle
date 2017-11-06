@@ -68,6 +68,7 @@ android {
         main {
             java {
                 srcDir 'src/telemetry/java'
+                srcDir 'src/caching/java'
             }
         }
     }
